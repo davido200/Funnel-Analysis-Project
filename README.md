@@ -1,4 +1,5 @@
 # Funnel Analysis Project
+![image](https://github.com/user-attachments/assets/1040f563-bf34-4961-88ab-6700185f2453)
 
 ## Overview
 
